@@ -32,7 +32,8 @@
 
 ## Browsers and IDE
 [![Opera GX](https://img.shields.io/badge/Opera_GX-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com)
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://code.visualstudio.com)
 
 ## Github Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=shadez1558&title=Joined2023,Commit,Followers,Repositories,Stars,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
