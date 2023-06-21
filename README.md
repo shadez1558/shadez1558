@@ -12,8 +12,8 @@
 
 [![Node.JS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.org)
-[![.ENV](https://img.shields.io/badge/.ENV-ECD53F?&style=for-the-badge&logo=dotenv&logoColor=white)](https://www.dotenv.org)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![.ENV](https://img.shields.io/badge/.ENV-ECD53F?&style=for-the-badge&logo=dotenv&logoColor=white)](https://www.dotenv.org)
 [![C++](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com)
 [![C#](https://img.shields.io/badge/CSHARP-239120?&style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-0000FF?&style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
